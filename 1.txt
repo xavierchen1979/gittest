@@ -1,3 +1,7 @@
 1111
 bug+
+<<<<<<< HEAD
 dev,dev
+=======
+func
+>>>>>>> func
